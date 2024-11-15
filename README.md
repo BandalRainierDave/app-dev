@@ -1,2 +1,2 @@
 # app-dev
-My first repository Bandal
+My first repository Band
